@@ -28,7 +28,7 @@ I'm android developer from Russia 🪆
 - 🖥️ In my free time I work on my projects or participate in hackathons.
 
 <h3 align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SogYa&theme=nord_bright" alt="Youtube Badge"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SogYa&theme=algolia" alt="Youtube Badge"/>
 </h3>
 
 # My achievements:
