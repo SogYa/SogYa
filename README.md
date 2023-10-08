@@ -33,7 +33,7 @@ I'm android developer from Russia 🪆
 
 # My achievements:
 <h3 align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=SogYa&row=1&column=5" alt="Youtube Badge"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=SogYa&row=1&column=5&theme=algolia" alt="Youtube Badge"/>
 </h3>
 
 
