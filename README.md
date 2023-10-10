@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://github.com/SogYa/SogYa/assets/73115406/df42e460-ce1f-476b-8482-a69590823e36" width="600" />
+  <img src="https://github.com/SogYa/SogYa/assets/73115406/ea3507c3-9ed9-4378-88ef-4670722afdf8" />
 </h3>
 
 <h3 align="center">
