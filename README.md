@@ -1,4 +1,7 @@
-<h1 align="center">Hi there, i'm <a href="https://t.me/sogya88" target="_blank">Timofey Sorokin</a></h1>
+<h3 align="center">
+  <img src="https://github.com/SogYa/SogYa/assets/73115406/df42e460-ce1f-476b-8482-a69590823e36" width="600" />
+</h3>
+
 <h3 align="center">
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -36,4 +39,6 @@ I'm android developer from Russia 🪆
  <img src="https://github-profile-trophy.vercel.app/?username=SogYa&row=1&column=5&theme=algolia&margin-w=38&no-frame=true" alt="Youtube Badge"/>
 </h3>
 
-
+# Contacts:
+<h3 align="center"><a href="https://t.me/sogya88" target="_blank">Telegram</a></h3>
+<h3 align="center"><a href="https://vk.com/ssogya" target="_blank">Vk</a></h3>
