@@ -39,7 +39,7 @@ The best way to contact me is to use Telegram
 <h3 align="center">
 <div id="badges">
   <a href="https://t.me/sogya88" target="_blank">Telegram</a>
-  <a href="https://vk.com/ssogya" target="_blank">Telegram</a>
+  <a href="https://vk.com/ssogya" target="_blank">VK</a>
   <a href="https://apps.rustore.ru/developer/%2BbFCcQPRLwkH%2BSWYdqAU2ocGk1MfmGNv" target="_blank">RuStore</a>
 </div
 </h3>
