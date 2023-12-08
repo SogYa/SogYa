@@ -35,11 +35,11 @@ In the future, I plan to develop towards cross-platform development.
 </h3>
 
 # Contacts:
+The best way to contact me is to use Telegram
 <h3 align="center">
 <div id="badges">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-white?logo=telegram&color=%23008bcc&link=https://t.me/SogYa88">
-  <a href="your-twitter-URL">
-    <img alt="Static Badge" src="https://img.shields.io/badge/RuStore-white?color=%23008bcc&link=https%3A%2F%2Fapps.rustore.ru%2Fdeveloper%2F%252BbFCcQPRLwkH%252BSWYdqAU2ocGk1MfmGNv">
-  </a>
-</div>
+  <a href="https://t.me/sogya88" target="_blank">Telegram</a>
+  <a href="https://vk.com/ssogya" target="_blank">Telegram</a>
+  <a href="https://apps.rustore.ru/developer/%2BbFCcQPRLwkH%2BSWYdqAU2ocGk1MfmGNv" target="_blank">RuStore</a>
+</div
 </h3>
