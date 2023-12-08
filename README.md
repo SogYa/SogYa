@@ -21,14 +21,9 @@
 
 
 # Abot me:
-I'm android developer from Russia 🪆
-- 🏢 I’m working as a Junior Android developer at Neurone.
-
-- 🧑‍🎓 I'm studying for a master's degree at the National Nuclear University MEPhI
-
-- :seedling: Exploring Technical Content Writing.
-
-- 🖥️ In my free time I work on my projects or participate in hackathons.
+I have been engaged in android development for 3 years and currently I work as an android developer at the Neuron company. Indie applications are being developed, including an Android application for managing home automation based on Home Assistnat, as well as an application that allows you to gamify the user's physical activity.
+I actively participate in community life, hackathons and scientific and technical conferences related to mobile development.
+In the future, I plan to develop towards cross-platform development.
 
 <h3 align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SogYa&theme=algolia" alt="Youtube Badge"/>
@@ -40,5 +35,13 @@ I'm android developer from Russia 🪆
 </h3>
 
 # Contacts:
-<h3 align="center"><a href="https://t.me/sogya88" target="_blank">Telegram</a></h3>
-<h3 align="center"><a href="https://vk.com/ssogya" target="_blank">Vk</a></h3>
+<h3 align="center">
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-white?logo=telegram&color=%23008bcc&link=https%3A%2F%2Fapps.rustore.ru%2Fdeveloper%2F%252BbFCcQPRLwkH%252BSWYdqAU2ocGk1MfmGNv">
+  </a>
+  <a href="your-twitter-URL">
+    <img alt="Static Badge" src="https://img.shields.io/badge/RuStore-white?color=%23008bcc&link=https%3A%2F%2Fapps.rustore.ru%2Fdeveloper%2F%252BbFCcQPRLwkH%252BSWYdqAU2ocGk1MfmGNv">
+  </a>
+</div>
+</h3>
