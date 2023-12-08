@@ -37,9 +37,7 @@ In the future, I plan to develop towards cross-platform development.
 # Contacts:
 <h3 align="center">
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-white?logo=telegram&color=%23008bcc&link=https://t.me/SogYa88">
-  </a>
+      <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-white?logo=telegram&color=%23008bcc&link=https://t.me/SogYa88">
   <a href="your-twitter-URL">
     <img alt="Static Badge" src="https://img.shields.io/badge/RuStore-white?color=%23008bcc&link=https%3A%2F%2Fapps.rustore.ru%2Fdeveloper%2F%252BbFCcQPRLwkH%252BSWYdqAU2ocGk1MfmGNv">
   </a>
