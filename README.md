@@ -21,13 +21,25 @@
 
 
 # Abot me:
-I have been engaged in android development for 3 years and currently I work as an android developer at the Neuron company. Indie applications are being developed, including an Android application for managing home automation based on Home Assistnat, as well as an application that allows you to gamify the user's physical activity.
-I actively participate in community life, hackathons and scientific and technical conferences related to mobile development.
-In the future, I plan to develop towards cross-platform development.
+I have been developing Android for 3 years now and am currently working as an android developer at Neuron.  I actively participate in community life, hackathons and scientific and technical conferences related to mobile development. In the future, I plan to develop in the direction of cross-platform development.
 
 <h3 align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SogYa&theme=algolia" alt="Youtube Badge"/>
 </h3>
+
+# My main projects:
+I am developing indie applications, including an Android application for managing home automation based on Home Assistnat, as well as an application that allows you to gamify the user's physical activity.
+
+<h3 align="center">
+<div id="badges">
+  <a href="https://github.com/SogYa/domovoy-ha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sogya&repo=domovoy-ha&theme=algolia"/>
+  </a>
+  <a href="https://github.com/KatbertAllgood/sportivity">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KatbertAllgood&repo=sportivity&theme=algolia"/>
+  </a>
+</div>
+</h3
 
 # My achievements:
 <h3 align="center">
