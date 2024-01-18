@@ -33,10 +33,10 @@ I am developing indie applications, including an Android application for managin
 <h3 align="center">
 <div id="badges">
   <a href="https://github.com/SogYa/domovoy-ha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sogya&repo=domovoy-ha&theme=algolia"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sogya&repo=domovoy-ha&theme=algolia&hide_border=true"/>
   </a>
   <a href="https://github.com/KatbertAllgood/sportivity">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KatbertAllgood&repo=sportivity&theme=algolia"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KatbertAllgood&repo=sportivity&theme=algolia&hide_border=true"/>
   </a>
 </div>
 </h3
