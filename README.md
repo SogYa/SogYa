@@ -21,7 +21,7 @@
 
 
 # Abot me:
-I have been developing Android for 3 years now and am currently working as an android developer at Neuron.  I actively participate in community life, hackathons and scientific and technical conferences related to mobile development. In the future, I plan to develop in the direction of cross-platform development.
+I have been developing Android for 3 years now and am currently working as an android developer at Neuron.  I actively participate in community life, hackathons and scientific and technical conferences related to mobile development. I am currently actively studying Kotlin Multiplatform.
 
 <h3 align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SogYa&theme=algolia" alt="Youtube Badge"/>
@@ -37,6 +37,15 @@ I am developing indie applications, including an Android application for managin
   </a>
   <a href="https://github.com/KatbertAllgood/sportivity">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KatbertAllgood&repo=sportivity&theme=algolia&hide_border=true"/>
+  </a>
+</div>
+</h3
+
+At the moment, I am developing a cross-platform mobile application commissioned by RTU MIREA. In this project, I use kotlin multiplatform + compose multiplatform, as well as all the most modern cross-platform development tools.
+<h3 align="center">
+<div id="badges">
+  <a href="https://github.com/SportivityTeam/assistant-vuc-mirea">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sportivityteam&repo=assistant-vuc-mirea&theme=algolia&hide_border=true"/>
   </a>
 </div>
 </h3
