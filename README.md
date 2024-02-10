@@ -50,10 +50,16 @@ At the moment, I am developing a cross-platform mobile application commissioned 
 </div>
 </h3
 
-# My achievements:
+
+My achievements are displayed in this repository
+
 <h3 align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=SogYa&row=1&column=5&theme=algolia&margin-w=38&no-frame=true" alt="Youtube Badge"/>
-</h3>
+<div id="badges">
+  <a href="https://github.com/SogYa/achievements">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SogYa&repo=achievements&theme=algolia&hide_border=true"/>
+  </a>
+</div>
+</h3
 
 # Contacts:
 The best way to contact me is to use Telegram
