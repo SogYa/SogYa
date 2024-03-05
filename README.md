@@ -21,7 +21,7 @@
 
 
 # Abot me:
-I have been developing Android for 3 years now and am currently working as an android developer at Neuron.  I actively participate in community life, hackathons and scientific and technical conferences related to mobile development. I am currently actively studying Kotlin Multiplatform.
+I have been developing Android for 3 years now and am currently working as an android developer at <a href="https://mileonair.com">MILEONAIR</a>.  I actively participate in community life, hackathons and scientific and technical conferences related to mobile development. I am currently actively studying Kotlin Multiplatform.
 
 <h3 align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SogYa&theme=algolia" alt="Youtube Badge"/>
