@@ -32,7 +32,7 @@ I am developing indie applications, including an Android application for managin
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sogya&repo=domovoy-ha&theme=algolia&hide_border=true"/>
   </a>
   <a href="https://github.com/SogYa/healthivity">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KatbertAllgood&repo=sportivity&theme=algolia&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SogYa&repo=healthivity&theme=algolia&hide_border=true"/>
   </a>
 </div>
 </h3
