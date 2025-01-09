@@ -21,7 +21,7 @@
 
 
 # Abot me:
-I have been developing Android for 3 years now and am currently working as an android developer at <a href="https://finch.fm">FINCH</a>.  I actively participate in community life, hackathons and scientific and technical conferences related to mobile development. I am currently actively studying Kotlin Multiplatform.
+I have been developing Android for 4 years now and am currently working as an android developer at <a href="https://finch.fm">FINCH</a>.  I actively participate in community life, hackathons and scientific and technical conferences related to mobile development. I am currently actively studying Kotlin Multiplatform.
 
 # My main projects:
 I am developing indie applications, including an Android application for managing home automation based on Home Assistnat, as well as an application that allows you to gamify the user's physical activity.
